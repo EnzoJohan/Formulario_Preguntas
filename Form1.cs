@@ -10,6 +10,9 @@ using System.Windows.Forms;
 
 namespace Formulario_Preguntas
 {
+    /// <summary>
+    /// comentario de prueba
+    /// </summary>
     public partial class Form1 : Form
     {
         public Form1()
