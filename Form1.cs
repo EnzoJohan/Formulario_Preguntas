@@ -12,7 +12,7 @@ namespace Formulario_Preguntas
 {
     /// <summary>
     /// comentario de prueba 2
-    /// hola xd
+    /// Comentario modificado el 3 de septiembre de 2023
     /// COMENTARIO3
     /// </summary>
     public partial class Form1 : Form
