@@ -14,7 +14,7 @@ namespace Formulario_Preguntas
     /// comentario de prueba 2
     /// Comentario modificado el 3 de septiembre de 2023
     /// COMENTARIO3
-    /// COMENTARIOOOOOOO
+    /// COMENTARIOOOOOO
     /// DIEGO INTENTANDO COMENTAR
     /// practicando 
     /// </summary>
