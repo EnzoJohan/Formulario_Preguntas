@@ -17,6 +17,9 @@ namespace Formulario_Preguntas
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
+
+
+            // intento de comit por diego ANdradee
         }
     }
 }
