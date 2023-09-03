@@ -16,6 +16,7 @@ namespace Formulario_Preguntas
     /// COMENTARIO3
     /// COMENTARIOOOOOOO
     /// DIEGO INTENTANDO COMENTAR
+    /// practicando 
     /// </summary>
     public partial class Form1 : Form
     {
@@ -34,11 +35,11 @@ namespace Formulario_Preguntas
             string genero = cmbGenero.SelectedItem.ToString();
             string edad = cmbEdad.SelectedItem.ToString();
             string equipo = cmbEquipo.SelectedItem.ToString();
-            string mensaje = $"Género: {genero}\nEdad: {edad}\nEquipo: {equipo}";
+            string mensaje = $"Género: {genero}\n mayor de edad? : {edad}\nEquipo: {equipo}";
             MessageBox.Show(mensaje, "Respuestas", MessageBoxButtons.OK, MessageBoxIcon.Information);
 
         }
-
+        
         private void btnCerrar_Click(object sender, EventArgs e)
         {
             Close();
