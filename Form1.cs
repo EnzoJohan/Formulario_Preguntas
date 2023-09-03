@@ -12,6 +12,7 @@ namespace Formulario_Preguntas
 {
     /// <summary>
     /// comentario de prueba 2
+    /// hola xd
     /// </summary>
     public partial class Form1 : Form
     {
